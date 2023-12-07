@@ -33,11 +33,11 @@ Breakdown
 
 Breakdown
 ## YOLOV5
-[Colab](https://colab.research.google.com/drive/1ZZKzG1U5GiA2zmeMGNb8QCYPPAqfnFTB)https://colab.research.google.com/drive/1ZZKzG1U5GiA2zmeMGNb8QCYPPAqfnFTB
+[Colab](https://colab.research.google.com/drive/1ZZKzG1U5GiA2zmeMGNb8QCYPPAqfnFTB)
 
 Breakdown
 ## Autoencoder and GAN
-[Colab](https://colab.research.google.com/drive/1COHn2_AAdGlcGGSfv_0LtBMlFk9dI7X2)https://colab.research.google.com/drive/1COHn2_AAdGlcGGSfv_0LtBMlFk9dI7X2
+[Colab](https://colab.research.google.com/drive/1COHn2_AAdGlcGGSfv_0LtBMlFk9dI7X2)
 
 Breakdown
 ##
