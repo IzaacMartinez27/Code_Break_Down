@@ -12,24 +12,24 @@ Breakdown
 [Colab](https://colab.research.google.com/drive/1-T1o1eeMplSQcJ1qoKO_ksWrSD0JcGFB)
 
 Breakdown
-##
-Colab
+## Python HTML Filters
+[Colab](https://colab.research.google.com/drive/1vWlB8JLsUeKJ61xjQwCXbqnTljoDnCkK)
 
 Breakdown
-##
-Colab
+## MNIST
+[Colab](https://colab.research.google.com/drive/1cZRQuVMSg-2ZQOFXFTL7ZbG6ENujSwi3)
 
 Breakdown
-##
-Colab
+## Flowers 102
+[Colab](https://colab.research.google.com/drive/16HedzSf1fq27srG3X5ao--RDyldFRLXz)
 
 Breakdown
-##
-Colab
+## Convolutions 
+[Colab](https://colab.research.google.com/drive/1HbX_oJD8Y8bosFzRWbrVdpNyBxR-oy5B)
 
 Breakdown
-##
-Colab
+## AlexNet
+[Colab](https://colab.research.google.com/drive/1UgiwZ3AMFy8ofFEdwMRatCpLesUry2Ws)
 
 Breakdown
 ##
