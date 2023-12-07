@@ -1,5 +1,4 @@
-Certainly, here is the complete Markdown document with all code blocks filled in and descriptions:
-
+## Full Breakdown of the code
 ```markdown
 # Custom Linear Model for Image Classification
 
