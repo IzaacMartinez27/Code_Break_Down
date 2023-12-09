@@ -39,11 +39,8 @@
 ## Autoencoder and GAN
 [Colab](https://colab.research.google.com/drive/1COHn2_AAdGlcGGSfv_0LtBMlFk9dI7X2)
 
-Breakdown
+[Breakdown](https://github.com/IzaacMartinez27/Code_Break_Down/blob/main/Autoencoder_and_GAN.md)https://github.com/IzaacMartinez27/Code_Break_Down/blob/main/Autoencoder_and_GAN.md
 ##
-Colab
-
-Breakdown
 
 
 
