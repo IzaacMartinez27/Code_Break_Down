@@ -31,7 +31,7 @@
 ## AlexNet
 [Colab](https://colab.research.google.com/drive/1UgiwZ3AMFy8ofFEdwMRatCpLesUry2Ws)
 
-Breakdown
+[Breakdown](https://github.com/IzaacMartinez27/Code_Break_Down/blob/main/AlexNet.md)
 ## YOLOV5
 [Colab](https://colab.research.google.com/drive/1ZZKzG1U5GiA2zmeMGNb8QCYPPAqfnFTB)
 
