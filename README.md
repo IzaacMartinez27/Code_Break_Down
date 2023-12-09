@@ -35,7 +35,7 @@
 ## YOLOV5
 [Colab](https://colab.research.google.com/drive/1ZZKzG1U5GiA2zmeMGNb8QCYPPAqfnFTB)
 
-Breakdown
+[Breakdown](https://github.com/IzaacMartinez27/Code_Break_Down/blob/main/YoloV5.md)
 ## Autoencoder and GAN
 [Colab](https://colab.research.google.com/drive/1COHn2_AAdGlcGGSfv_0LtBMlFk9dI7X2)
 
