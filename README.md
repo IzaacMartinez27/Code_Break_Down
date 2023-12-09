@@ -27,7 +27,7 @@
 ## Convolutions 
 [Colab](https://colab.research.google.com/drive/1HbX_oJD8Y8bosFzRWbrVdpNyBxR-oy5B)
 
-Breakdown
+[Breakdown](https://github.com/IzaacMartinez27/Code_Break_Down/blob/main/Convolutions.md)
 ## AlexNet
 [Colab](https://colab.research.google.com/drive/1UgiwZ3AMFy8ofFEdwMRatCpLesUry2Ws)
 
