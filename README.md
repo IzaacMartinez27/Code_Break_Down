@@ -19,7 +19,7 @@
 ## MNIST
 [Colab](https://colab.research.google.com/drive/1cZRQuVMSg-2ZQOFXFTL7ZbG6ENujSwi3)
 
-Breakdown
+[Breakdown](https://github.com/IzaacMartinez27/Code_Break_Down/blob/main/MNIST.md)
 ## Flowers 102
 [Colab](https://colab.research.google.com/drive/16HedzSf1fq27srG3X5ao--RDyldFRLXz)
 
