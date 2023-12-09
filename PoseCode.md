@@ -1,5 +1,3 @@
-Certainly! Here's a breakdown of the MoveNet code in GitHub Markdown format:
-
 ```markdown
 # MoveNet Tutorial Breakdown
 
