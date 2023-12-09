@@ -127,5 +127,3 @@ This section extends the model's application to video frames. It includes a crop
 
 This tutorial provides a comprehensive guide on using MoveNet for human pose estimation, covering both single image and video inputs. It demonstrates the power and flexibility of MoveNet in various real-world applications.
 ```
-
-This Markdown document provides a detailed overview of each code section in the MoveNet tutorial, making it easier to understand how the model is loaded, how it processes images and videos, and how the results are visualized.
